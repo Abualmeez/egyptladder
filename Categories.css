@@ -161,11 +161,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -191,11 +186,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -221,11 +211,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -251,11 +236,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -281,11 +261,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -311,11 +286,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -341,11 +311,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 15px auto 0;
   padding: 6px 23px 7px 22px;
 }
@@ -375,6 +340,11 @@
   .u-section-3 .u-btn-1 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-2 {
@@ -388,6 +358,11 @@
   .u-section-3 .u-btn-2 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-3 {
@@ -401,6 +376,11 @@
   .u-section-3 .u-btn-3 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-4 {
@@ -414,6 +394,11 @@
   .u-section-3 .u-btn-4 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-5 {
@@ -427,6 +412,11 @@
   .u-section-3 .u-btn-5 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-6 {
@@ -440,6 +430,11 @@
   .u-section-3 .u-btn-6 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-3 .u-image-7 {
@@ -453,6 +448,11 @@
   .u-section-3 .u-btn-7 {
     margin-top: 16px;
     margin-right: -7px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 }
 
