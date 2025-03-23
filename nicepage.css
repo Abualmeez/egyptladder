@@ -45443,7 +45443,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-3 {
     font-size: 0.75rem;
     margin-top: -24px;
-    margin-left: 84px;
+    margin-left: auto;
     padding: 1px 6px 2px 5px;
   }
 
@@ -45456,7 +45456,7 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 0.75rem;
     margin-top: -24px;
     margin-bottom: 20px;
-    margin-left: 0;
+    margin-left: auto;
 padding: 1px 6px 2px 5px;
   }
 }
