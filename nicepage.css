@@ -45433,22 +45433,24 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-1 {
     font-size: 0.75rem;
     margin-top: 20px;
-    margin-left: 240px;
-    padding: 1px 8px 2px;
+    margin-right: 0;
+    margin-left: auto;
+    padding: 1px 6px 2px 5px;
   }
 
   .u-header .u-btn-2 {
     font-size: 0.75rem;
     margin-top: -24px;
-    margin-left: 159px;
-    padding: 1px 7px 2px 6px;
+    margin-right: 109px;
+    margin-left: auto;
+    padding: 1px 4px 2px 2px;
   }
 
   .u-header .u-btn-3 {
     font-size: 0.75rem;
     margin-top: -23px;
-    margin-left: 77px;
-    padding: 0 15px 2px 13px;
+    margin-left: 84px;
+    padding: 0 9px 2px 7px;
   }
 
   .u-header .u-icon-8 {
@@ -45458,10 +45460,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-btn-4 {
     font-size: 0.75rem;
-    margin-top: -23px;
-    margin-bottom: 20px;
     margin-left: 0;
-    padding: 0 7px 2px 6px;
+    padding-top: 0;
+    padding-right: 4px;
+    padding-bottom: 2px;
   }
 }
  .u-footer {
