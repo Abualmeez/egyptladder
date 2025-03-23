@@ -45456,7 +45456,7 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 0.75rem;
     margin-top: -24px;
     margin-bottom: 20px;
-    margin-left: auto;
+    margin-left: 0;
 padding: 1px 6px 2px 5px;
   }
 }
