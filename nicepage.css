@@ -45435,7 +45435,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-2 {
     font-size: 0.75rem;
     margin-top: -24px;
-    margin-right: 109px;
+    margin-right: auto;
     margin-left: auto;
    padding: 1px 6px 2px 5px;
   }
@@ -45443,7 +45443,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-3 {
     font-size: 0.75rem;
     margin-top: -24px;
-    margin-left: 80px;
+    margin-right: auto;
+    margin-left: auto;
     padding: 1px 6px 2px 5px;
   }
 
@@ -45456,6 +45457,7 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 0.75rem;
     margin-top: -24px;
     margin-bottom: 20px;
+	  margin-right: auto;
     margin-left: 0;
 padding: 1px 6px 2px 5px;
   }
